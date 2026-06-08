@@ -1,14 +1,14 @@
-LineageOS
+Infinity X for the Ace 6T
 ===========
 
 Getting started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with Infinity X, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/OnePlus-SM8850-Development/android.git -b lineage-23.2 --git-lfs
+repo init --depth=1 --no-repo-verify --git-lfs -u https://github.com/RaB1DLANDMINE/android -b 16 -g default,-mips,-darwin,-notdefault
 ```
 Then to sync up:
 ```
@@ -23,7 +23,7 @@ repo sync
 
 # Build the code
 ```bash
-brunch <codename>
+brunch infinity_macanc-userdebug
 ```
 
 Submitting patches
