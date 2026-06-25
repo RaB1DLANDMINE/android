@@ -42,12 +42,12 @@
   <project path="external/jemalloc_new" name="external_jemalloc_new" groups="pdk" remote="infinity" />
 
   <!-- Frameworks -->
-  <project path="frameworks/av" name="frameworks_av" groups="pdk,sysui-studio" remote="infinity" revision="16" />
+  <project path="frameworks/av" name="frameworks_av" groups="pdk,sysui-studio" remote="infinity" />
   <project path="frameworks/base" name="RaB1DLANDMINE/android_frameworks_base" />
   <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="infinity" />
-  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="infinity" revision="16" />
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk,sysui-studio" remote="infinity" revision="16" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk,sysui-studio" remote="infinity" revision="16" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="infinity" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk,sysui-studio" remote="infinity" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk,sysui-studio" remote="infinity" />
 
   <!-- SDK -->
   <project path="lineage-sdk" name="custom-sdk" remote="infinity" />
