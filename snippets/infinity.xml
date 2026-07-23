@@ -40,6 +40,7 @@
   <project path="external/FadingEdgeLayout" name="external_FadingEdgeLayout" remote="infinity" />
   <project path="external/bouncycastle" name="external_bouncycastle" groups="pdk" remote="infinity" />
   <project path="external/jemalloc_new" name="external_jemalloc_new" groups="pdk" remote="infinity" />
+  <project path="external/liblhdcv5" name="RaB1DLANDMINE/external_liblhdcv5" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="RaB1DLANDMINE/frameworks_av" groups="pdk,sysui-studio" revision="16" />
