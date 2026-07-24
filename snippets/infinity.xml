@@ -61,7 +61,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="infinity" />
   <project path="packages/apps/FaceUnlock" name="packages_apps_FaceUnlock" remote="infinity" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="infinity" />
-  <project path="packages/apps/InfinitySuite" name="RaB1DLANDMINE/packages_apps_InfinitySuite" revision="16" />
+  <project path="packages/apps/InfinitySuite" name="RaB1DLANDMINE/packages_apps_InfinitySuite" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="lfs" />
   <project path="packages/apps/LineageParts" name="packages_apps_Parts" remote="infinity" />
   <project path="packages/apps/LMOFreeform" name="packages_apps_LMOFreeform" remote="infinity" />
