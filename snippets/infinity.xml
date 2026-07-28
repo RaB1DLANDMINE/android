@@ -98,6 +98,9 @@
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="infinity" />
   <project path="system/memory/libmeminfo" name="system_memory_libmeminfo" groups="pdk" remote="infinity" />
 
+  <!-- Hardware: Dolby DAX3 stack (private repo, SSH) -->
+  <project path="hardware/dolby" name="RaB1DLANDMINE/hardware_dolby" remote="private" revision="lineage-23.2" />
+
   <!-- Vendor -->
   <project path="vendor/extras" name="vendor_extras" remote="infinity" />
   <project path="vendor/google/gms" name="tejas101k/vendor_google_gms" remote="gitlab" revision="16" clone-depth="1" />
