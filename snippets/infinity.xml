@@ -74,9 +74,6 @@
   <project path="packages/apps/Updater" name="RaB1DLANDMINE/packages_apps_Updater" revision="16" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" groups="pdk-fs,sysui-studio" remote="infinity" />
 
-  <!-- Extra -->
-  <project path="packages/apps/DolbyAtmos" name="lineageos-personal/android_packages_apps_DolbyAtmos" />
-
   <!-- Packages: Modules -->
   <project path="packages/modules/Bluetooth" name="RaB1DLANDMINE/packages_modules_Bluetooth" groups="pdk" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="infinity" />
