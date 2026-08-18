@@ -14,4 +14,7 @@
   <!-- Hardware -->
   <project path="hardware/oplus" name="OnePlus-SM8850-Development/android_hardware_oplus" revision="lineage-24.0" />
 
+  <!-- sm8850 CAF HALs (fall back to lineage-23.2 where 24.0 isn't rebased yet) -->
+  <project path="hardware/qcom-caf/sm8850/audio/primary-hal" name="OnePlus-SM8850-Development/android_hardware_qcom_audio-ar" groups="qcom,kaanapali-audio" revision="lineage-23.2-caf-sm8850" />
+
 </manifest>
