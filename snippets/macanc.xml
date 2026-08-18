@@ -16,6 +16,11 @@
 
   <!-- sm8850 CAF HALs (fall back to lineage-23.2 where 24.0 isn't rebased yet) -->
   <project path="hardware/qcom-caf/sm8850/audio/primary-hal" name="OnePlus-SM8850-Development/android_hardware_qcom_audio-ar" groups="qcom,kaanapali-audio" revision="lineage-23.2-caf-sm8850" />
+  <project path="hardware/qcom-caf/sm8850/display/core" name="OnePlus-SM8850-Development/android_vendor_qcom_opensource_display-core" groups="qcom" revision="lineage-23.2-caf-sm8850" />
+  <project path="hardware/qcom-caf/sm8850/display/hal" name="OnePlus-SM8850-Development/android_hardware_qcom_display" groups="qcom" revision="lineage-23.2-caf-sm8850" />
+  <project path="hardware/qcom-caf/sm8850/display/intf" name="OnePlus-SM8850-Development/android_vendor_qcom_opensource_display-intf" groups="qcom" revision="lineage-23.2-caf-sm8850" />
+  <project path="hardware/qcom-caf/sm8850/dataipa" name="OnePlus-SM8850-Development/android_vendor_qcom_opensource_dataipa" groups="qcom,kaanapali-vendor" revision="lineage-23.2-caf-sm8850" />
+  <project path="hardware/qcom-caf/sm8850/data-ipa-cfg-mgr" name="OnePlus-SM8850-Development/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,kaanapali-vendor" revision="lineage-23.2-caf-sm8850" />
 
   <!-- petalOS -->
   <project path="vendor/petal" name="petalFTW/vendor_petal" revision="lineage-24.0" />
