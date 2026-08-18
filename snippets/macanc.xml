@@ -19,5 +19,6 @@
 
   <!-- petalOS -->
   <project path="vendor/petal" name="petalFTW/vendor_petal" revision="lineage-24.0" />
+  <project path="packages/apps/GmsCompat" name="petalFTW/packages_apps_GmsCompat" revision="lineage-24.0" />
 
 </manifest>
